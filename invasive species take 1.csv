@@ -1,0 +1,23 @@
+"S.n","Name.of.species","Q1","Q2","Q3","Q4","Q5","Q6","Q7","Q8","Q9","Q10","occupied.quadrat","density","frequency","abundance","relative.density.","relative.abundance.","IVI","TOTAL"
+1,"Gnaphalium affine",20,10,6,2,5,0,0,0,0,0,5,4.3,50,NA,NA,NA,NA,43
+2,"Chenopodium giganteum",12,9,15,0,0,0,0,0,0,0,3,3.6,30,NA,NA,NA,NA,36
+3,"Emilia fosbergii",6,4,4,7,2,0,0,0,0,0,5,2.3,50,NA,NA,NA,NA,23
+4,"Bidens pilosa",19,25,34,15,23,14,0,0,9,4,8,14.3,80,NA,NA,NA,NA,143
+5,"Galinsoga quadriradiata",200,156,12,5,0,2,0,0,0,0,5,37.5,50,NA,NA,NA,NA,375
+6,"Oxalis latifolia",55,17,8,26,18,13,15,0,0,0,7,15.2,70,NA,NA,NA,NA,152
+7,"Ageratum houstonianum",105,156,23,12,9,2,3,0,0,0,7,31,70,NA,NA,NA,NA,310
+8,"Ageratina Adenophera",2,5,15,67,23,42,0,0,0,0,6,15.4,60,NA,NA,NA,NA,154
+9,"Lantana camara",0,0,0,0,0,0,44,50,5,7,4,10.6,40,NA,NA,NA,NA,106
+10,"Alternanthera philoxeroides",14,11,23,9,25,105,23,14,0,0,8,22.4,80,NA,NA,NA,NA,224
+11,"Mikania micarantha",0,0,2,0,0,0,0,0,34,20,3,5.6,30,NA,NA,NA,NA,56
+12,"Oplismenus hirtellus",5,7,0,67,55,5,0,0,0,0,5,13.9,50,NA,NA,NA,NA,139
+13,"Carex pendula",0,2,1,0,0,0,0,0,0,0,2,0.3,20,NA,NA,NA,NA,3
+14,"Mesosphaerum suaveolens",2,4,0,0,5,0,0,0,0,0,3,1.1,30,NA,NA,NA,NA,11
+15,"Chromolaena odorata",2,11,15,0,0,0,14,10,0,0,5,5.2,50,NA,NA,NA,NA,52
+16,"Mimosa pudica",0,0,0,2,5,6,2,0,5,7,6,2.7,60,NA,NA,NA,NA,27
+17,"Amaranthus spinosus",2,12,35,2,0,0,0,0,0,0,4,5.1,40,NA,NA,NA,NA,51
+18,"Spermacoce alata",5,11,9,0,0,0,0,0,0,0,3,2.5,30,NA,NA,NA,NA,25
+19,"Ageratum conyzoides",3,5,6,0,0,0,2,6,0,0,5,2.2,50,NA,NA,NA,NA,22
+20,"Erigeron canadensis",2,5,1,10,4,0,0,0,0,0,5,2.2,50,NA,NA,NA,NA,22
+21,"Persicaria virginiana",5,10,25,12,5,0,0,7,14,0,7,7.8,70,NA,NA,NA,NA,78
+22,"fern.sps",0,0,5,9,10,0,0,0,0,0,3,2.4,30,NA,NA,NA,NA,24
